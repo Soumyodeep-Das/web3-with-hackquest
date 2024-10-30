@@ -1,0 +1,3 @@
+[submodule "MasterChef/lib/forge-std"]
+	path = MasterChef/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
